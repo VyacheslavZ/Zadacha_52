@@ -1,0 +1,15 @@
+D:\GeekBrains\C++\Seminar7\52\Zadacha_52\bin\Debug\net6.0\Zadacha_52.exe
+D:\GeekBrains\C++\Seminar7\52\Zadacha_52\bin\Debug\net6.0\Zadacha_52.deps.json
+D:\GeekBrains\C++\Seminar7\52\Zadacha_52\bin\Debug\net6.0\Zadacha_52.runtimeconfig.json
+D:\GeekBrains\C++\Seminar7\52\Zadacha_52\bin\Debug\net6.0\Zadacha_52.dll
+D:\GeekBrains\C++\Seminar7\52\Zadacha_52\bin\Debug\net6.0\Zadacha_52.pdb
+D:\GeekBrains\C++\Seminar7\52\Zadacha_52\obj\Debug\net6.0\Zadacha_52.csproj.AssemblyReference.cache
+D:\GeekBrains\C++\Seminar7\52\Zadacha_52\obj\Debug\net6.0\Zadacha_52.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\C++\Seminar7\52\Zadacha_52\obj\Debug\net6.0\Zadacha_52.AssemblyInfoInputs.cache
+D:\GeekBrains\C++\Seminar7\52\Zadacha_52\obj\Debug\net6.0\Zadacha_52.AssemblyInfo.cs
+D:\GeekBrains\C++\Seminar7\52\Zadacha_52\obj\Debug\net6.0\Zadacha_52.csproj.CoreCompileInputs.cache
+D:\GeekBrains\C++\Seminar7\52\Zadacha_52\obj\Debug\net6.0\Zadacha_52.dll
+D:\GeekBrains\C++\Seminar7\52\Zadacha_52\obj\Debug\net6.0\refint\Zadacha_52.dll
+D:\GeekBrains\C++\Seminar7\52\Zadacha_52\obj\Debug\net6.0\Zadacha_52.pdb
+D:\GeekBrains\C++\Seminar7\52\Zadacha_52\obj\Debug\net6.0\Zadacha_52.genruntimeconfig.cache
+D:\GeekBrains\C++\Seminar7\52\Zadacha_52\obj\Debug\net6.0\ref\Zadacha_52.dll
